@@ -13,13 +13,13 @@ To install the necessary dependencies, follow the steps below:
 1. Clone the project repository:
 
     ```
-    git clone https://github.com/your-username/your-project.git
+    git clone https://github.com/olvbruno/gbt-de-coding-challenge.git
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd your-project
+    cd gbt-de-coding-challenge
     ```
 
 3. Create a virtual environment:
